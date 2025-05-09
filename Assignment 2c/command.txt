@@ -1,5 +1,0 @@
-npm install -g @angular/cli 
-ng new angular --no-standalone 
-ng generate component register --no-standalone
-ng generate component login --no-standalone   
-ng serve

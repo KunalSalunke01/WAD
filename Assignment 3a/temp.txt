@@ -1,0 +1,5 @@
+npm init -y
+npm install express
+ |-public/index.html
+ |-server.js
+node server.js
